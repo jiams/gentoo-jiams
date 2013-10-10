@@ -1,1 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>gentoo-jiams</name>
+		<description>custom gentoo ebuilds of jiamswang</description>
+		<homepage>https://github.com/jiams/gentoo-jiams</homepage>
+		<owner type="project">
+			 <email>jimaswang@gmail.com</email>
+			 <name>gentoo overlay of jiams</name>
+		</owner>
+		<source type="svn">https://github.com/jiams/gentoo-jiams/trunk</source>
+		<feed></feed>
+	</repo>
+</repositories>
