@@ -9,7 +9,7 @@
 			 <email>jimaswang@gmail.com</email>
 			 <name>gentoo overlay of jiams</name>
 		</owner>
-		<source type="svn">https://github.com/jiams/gentoo-jiams/trunk</source>
-		<feed></feed>
+		<source type="git">https://github.com/jiams/gentoo-jiams.git</source>
+		<feed>http://github.com/jiams/gentoo-jiams/commits/master.atom</feed>
 	</repo>
 </repositories>
